@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SamuraiApp.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af55c3f0ae50567cc90914a62dfb8f334cc44273")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9c84921f00ba430aa654645c06624c6c94182e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SamuraiApp.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SamuraiApp.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
