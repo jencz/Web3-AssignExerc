@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\SamuraiApp.Domain",
+    "\\SamuraiApp.Domain\\SamuraiAPI",
+    "\\SamuraiApp.Domain\\SamuraiApp.Data",
     "\\SamuraiApp.Domain\\SamuraiApp.Domain",
     "\\SamuraiApp.Domain\\SamuraiApp.UI"
   ],
-  "SelectedNode": "\\SamuraiApp.Domain\\SamuraiApp.Domain\\Samurai.cs",
+  "SelectedNode": "\\SamuraiApp.Domain\\SamuraiApp.Domain.sln",
   "PreviewInSolutionExplorer": false
 }

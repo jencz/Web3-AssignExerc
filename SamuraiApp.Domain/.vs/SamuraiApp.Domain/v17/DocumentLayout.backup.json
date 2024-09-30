@@ -1,54 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\",
+  "WorkspaceRootPath": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240918165826_horseOne2One.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuraiApp.Data\\Migrations\\20240918165826_horseOne2One.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\samuraiapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\samuraiapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240918163226_m2mPayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuraiApp.Data\\Migrations\\20240918163226_m2mPayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuraiApp.Domain\\Horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\controllers\\samuraiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\controllers\\samuraiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\BattleSamurai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuraiApp.Domain\\BattleSamurai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Samurai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuraiApp.Domain\\Samurai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240911175019_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuraiApp.Data\\Migrations\\20240911175019_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\SamuraiContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuraiApp.Data\\SamuraiContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.data\\samuraicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|solutionrelative:samuraiapp.data\\samuraicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuraiApp.Domain\\Battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.data\\migrations\\20240924182057_battledates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|solutionrelative:samuraiapp.data\\migrations\\20240924182057_battledates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240916201358_manyToManySimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuraiApp.Data\\Migrations\\20240916201358_manyToManySimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3407473-4B48-45DD-AA52-2CC70E09E17D}|SamuraiApp.Domain\\SamuraiApp.Domain.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.domain\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3407473-4B48-45DD-AA52-2CC70E09E17D}|SamuraiApp.Domain\\SamuraiApp.Domain.csproj|solutionrelative:samuraiapp.domain\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuraiApp.UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3407473-4B48-45DD-AA52-2CC70E09E17D}|SamuraiApp.Domain\\SamuraiApp.Domain.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.domain\\samurai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3407473-4B48-45DD-AA52-2CC70E09E17D}|SamuraiApp.Domain\\SamuraiApp.Domain.csproj|solutionrelative:samuraiapp.domain\\samurai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuraiApp.Domain\\Quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3407473-4B48-45DD-AA52-2CC70E09E17D}|SamuraiApp.Domain\\SamuraiApp.Domain.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.domain\\horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3407473-4B48-45DD-AA52-2CC70E09E17D}|SamuraiApp.Domain\\SamuraiApp.Domain.csproj|solutionrelative:samuraiapp.domain\\horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuraiApp.Data\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.data\\migrations\\20240918165826_horseone2one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|solutionrelative:samuraiapp.data\\migrations\\20240918165826_horseone2one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.data\\migrations\\20240918163226_m2mpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|solutionrelative:samuraiapp.data\\migrations\\20240918163226_m2mpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3407473-4B48-45DD-AA52-2CC70E09E17D}|SamuraiApp.Domain\\SamuraiApp.Domain.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.domain\\battlesamurai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3407473-4B48-45DD-AA52-2CC70E09E17D}|SamuraiApp.Domain\\SamuraiApp.Domain.csproj|solutionrelative:samuraiapp.domain\\battlesamurai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.data\\migrations\\20240911175019_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|solutionrelative:samuraiapp.data\\migrations\\20240911175019_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.data\\migrations\\20240916201358_manytomanysimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|solutionrelative:samuraiapp.data\\migrations\\20240916201358_manytomanysimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3407473-4B48-45DD-AA52-2CC70E09E17D}|SamuraiApp.Domain\\SamuraiApp.Domain.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.domain\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3407473-4B48-45DD-AA52-2CC70E09E17D}|SamuraiApp.Domain\\SamuraiApp.Domain.csproj|solutionrelative:samuraiapp.domain\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,8 +78,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 25,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SamuraisController.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Controllers\\SamuraisController.cs",
+              "RelativeDocumentMoniker": "SamuraiAPI\\Controllers\\SamuraisController.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Controllers\\SamuraisController.cs",
+              "RelativeToolTip": "SamuraiAPI\\Controllers\\SamuraisController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:26:30.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SamuraiAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "SamuraiAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:24:19.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SamuraiAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SamuraiAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:23:23.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SamuraiAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SamuraiAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T21:23:09.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SamuraiAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Program.cs",
+              "RelativeToolTip": "SamuraiAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:22:49.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f2e84780-2af1-11d1-a7fa-00a0c9110051}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -139,35 +228,47 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240918165826_horseOne2One.cs",
-              "DocumentMoniker": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240918165826_horseOne2One.cs",
-              "RelativeDocumentMoniker": "SamuraiApp.Data\\Migrations\\20240918165826_horseOne2One.cs",
-              "ToolTip": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240918165826_horseOne2One.cs",
-              "RelativeToolTip": "SamuraiApp.Data\\Migrations\\20240918165826_horseOne2One.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:58:26.238Z",
+              "Title": "SamuraiAPI",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\SamuraiAPI.csproj",
+              "RelativeDocumentMoniker": "SamuraiAPI\\SamuraiAPI.csproj",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\SamuraiAPI.csproj",
+              "RelativeToolTip": "SamuraiAPI\\SamuraiAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T21:22:12.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Horse.cs",
-              "DocumentMoniker": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Horse.cs",
-              "RelativeDocumentMoniker": "SamuraiApp.Domain\\Horse.cs",
-              "ToolTip": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Horse.cs",
-              "RelativeToolTip": "SamuraiApp.Domain\\Horse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "20240924182057_BattleDates.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240924182057_BattleDates.cs",
+              "RelativeDocumentMoniker": "SamuraiApp.Data\\Migrations\\20240924182057_BattleDates.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240924182057_BattleDates.cs",
+              "RelativeToolTip": "SamuraiApp.Data\\Migrations\\20240924182057_BattleDates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:57:34.856Z"
+              "WhenOpened": "2024-09-24T18:20:57.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
+              "Title": "20240918165826_horseOne2One.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240918165826_horseOne2One.cs",
+              "RelativeDocumentMoniker": "SamuraiApp.Data\\Migrations\\20240918165826_horseOne2One.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240918165826_horseOne2One.cs",
+              "RelativeToolTip": "SamuraiApp.Data\\Migrations\\20240918165826_horseOne2One.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:58:26.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20240918163226_m2mPayload.cs",
-              "DocumentMoniker": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240918163226_m2mPayload.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240918163226_m2mPayload.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Data\\Migrations\\20240918163226_m2mPayload.cs",
-              "ToolTip": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240918163226_m2mPayload.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240918163226_m2mPayload.cs",
               "RelativeToolTip": "SamuraiApp.Data\\Migrations\\20240918163226_m2mPayload.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,11 +276,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
+              "Title": "Horse.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Horse.cs",
+              "RelativeDocumentMoniker": "SamuraiApp.Domain\\Horse.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Horse.cs",
+              "RelativeToolTip": "SamuraiApp.Domain\\Horse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:57:34.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "BattleSamurai.cs",
-              "DocumentMoniker": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\BattleSamurai.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\BattleSamurai.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Domain\\BattleSamurai.cs",
-              "ToolTip": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\BattleSamurai.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\BattleSamurai.cs",
               "RelativeToolTip": "SamuraiApp.Domain\\BattleSamurai.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,23 +300,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Samurai.cs",
-              "DocumentMoniker": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Samurai.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Samurai.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Domain\\Samurai.cs",
-              "ToolTip": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Samurai.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Samurai.cs",
               "RelativeToolTip": "SamuraiApp.Domain\\Samurai.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T17:38:24.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "20240911175019_init.cs",
-              "DocumentMoniker": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240911175019_init.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240911175019_init.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Data\\Migrations\\20240911175019_init.cs",
-              "ToolTip": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240911175019_init.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240911175019_init.cs",
               "RelativeToolTip": "SamuraiApp.Data\\Migrations\\20240911175019_init.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -213,33 +326,34 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "SamuraiContext.cs",
-              "DocumentMoniker": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\SamuraiContext.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\SamuraiContext.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Data\\SamuraiContext.cs",
-              "ToolTip": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\SamuraiContext.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\SamuraiContext.cs",
               "RelativeToolTip": "SamuraiApp.Data\\SamuraiContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T17:43:55.367Z"
+              "WhenOpened": "2024-09-11T17:43:55.367Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Battle.cs",
-              "DocumentMoniker": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Battle.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Battle.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Domain\\Battle.cs",
-              "ToolTip": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Battle.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Battle.cs",
               "RelativeToolTip": "SamuraiApp.Domain\\Battle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T20:11:50.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "20240916201358_manyToManySimple.cs",
-              "DocumentMoniker": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240916201358_manyToManySimple.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240916201358_manyToManySimple.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Data\\Migrations\\20240916201358_manyToManySimple.cs",
-              "ToolTip": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240916201358_manyToManySimple.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240916201358_manyToManySimple.cs",
               "RelativeToolTip": "SamuraiApp.Data\\Migrations\\20240916201358_manyToManySimple.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,39 +361,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.UI\\Program.cs",
-              "RelativeDocumentMoniker": "SamuraiApp.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.UI\\Program.cs",
-              "RelativeToolTip": "SamuraiApp.UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T17:39:08.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Quote.cs",
-              "DocumentMoniker": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Quote.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Quote.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Domain\\Quote.cs",
-              "ToolTip": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Quote.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Quote.cs",
               "RelativeToolTip": "SamuraiApp.Domain\\Quote.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T17:39:43.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Class1.cs",
-              "RelativeDocumentMoniker": "SamuraiApp.Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\2180867\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Class1.cs",
-              "RelativeToolTip": "SamuraiApp.Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T17:38:53.23Z"
             }
           ]
         },
