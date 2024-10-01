@@ -5,10 +5,16 @@ C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Sa
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\SamuraiAPI.runtimeconfig.json
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\SamuraiAPI.dll
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\SamuraiAPI.pdb
+C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.csproj.AssemblyReference.cache
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.AssemblyInfoInputs.cache
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.AssemblyInfo.cs
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.csproj.CoreCompileInputs.cache
+C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.sourcelink.json
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\staticwebassets.build.json
@@ -19,6 +25,7 @@ C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\st
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SamuraiAPI.props
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\scopedcss\bundle\SamuraiAPI.styles.css
+C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.csproj.Up2Date
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.dll
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\refint\SamuraiAPI.dll
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.pdb
@@ -61,8 +68,6 @@ C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Sa
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\SamuraiApp.Domain.dll
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\SamuraiApp.Data.pdb
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\SamuraiApp.Domain.pdb
-C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.csproj.AssemblyReference.cache
-C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\obj\Debug\net8.0\SamuraiAPI.csproj.Up2Date
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Humanizer.dll
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Microsoft.Build.dll
@@ -79,7 +84,6 @@ C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Mi
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
-C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
 C:\Users\njenc\Web3-AssignExerc\SamuraiApp.Domain\SamuraiAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll

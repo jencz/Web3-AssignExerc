@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:62056",
-      "sslPort": 0
+      "applicationUrl": "http://localhost:56438",
+      "sslPort": 44368
     }
   },
   "profiles": {
@@ -13,8 +13,18 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
-      "applicationUrl": "http://localhost:5134",
+      "launchUrl": "api/samurais",
+      "applicationUrl": "http://localhost:5065",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "api/samurais",
+      "applicationUrl": "https://localhost:7120;http://localhost:5065",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -22,7 +32,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "api/samurais",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

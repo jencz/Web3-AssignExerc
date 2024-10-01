@@ -1,5 +1,114 @@
 [
   {
+    "ContainingType": "SamuraiAPI.Controllers.SamuraisController",
+    "Method": "GetSamurais",
+    "RelativePath": "api/Samurais",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SamuraiApp.Domain.Samurai, SamuraiApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SamuraiAPI.Controllers.SamuraisController",
+    "Method": "PostSamurai",
+    "RelativePath": "api/Samurais",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "samurai",
+        "Type": "SamuraiApp.Domain.Samurai",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SamuraiApp.Domain.Samurai",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SamuraiAPI.Controllers.SamuraisController",
+    "Method": "GetSamurai",
+    "RelativePath": "api/Samurais/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SamuraiApp.Domain.Samurai",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SamuraiAPI.Controllers.SamuraisController",
+    "Method": "PutSamurai",
+    "RelativePath": "api/Samurais/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "samurai",
+        "Type": "SamuraiApp.Domain.Samurai",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SamuraiAPI.Controllers.SamuraisController",
+    "Method": "DeleteSamurai",
+    "RelativePath": "api/Samurais/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SamuraiAPI.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
@@ -17,6 +126,7 @@
         ],
         "StatusCode": 200
       }
-    ]
+    ],
+    "EndpointName": "GetWeatherForecast"
   }
 ]

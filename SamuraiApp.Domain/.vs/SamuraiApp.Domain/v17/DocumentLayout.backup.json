@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\samuraiapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\samuraiapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\controllers\\samuraiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\controllers\\samuraiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\controllers\\samuraiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\controllers\\samuraiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BB8201D8-DDB9-406E-9E33-D7FFF31EBD8A}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.data\\samuraicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|solutionrelative:samuraiapp.data\\samuraicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\samuraiapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\samuraiapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\samuraiapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\samuraiapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405C6BA8-D98C-40D8-9944-4D006B098519}|SamuraiAPI\\SamuraiAPI.csproj|solutionrelative:samuraiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84146D9F-316C-4BD1-A12A-302C51E47955}|SamuraiApp.Data\\SamuraiApp.Data.csproj|c:\\users\\njenc\\web3-assignexerc\\samuraiapp.domain\\samuraiapp.data\\migrations\\20240924182057_battledates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,73 +86,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 25,
+          "SelectedChildIndex": 23,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SamuraisController.cs",
-              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Controllers\\SamuraisController.cs",
-              "RelativeDocumentMoniker": "SamuraiAPI\\Controllers\\SamuraisController.cs",
-              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Controllers\\SamuraisController.cs",
-              "RelativeToolTip": "SamuraiAPI\\Controllers\\SamuraisController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T21:26:30.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "SamuraiAPI\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\WeatherForecast.cs",
-              "RelativeToolTip": "SamuraiAPI\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T21:24:19.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "SamuraiAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "SamuraiAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T21:23:23.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "SamuraiAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "SamuraiAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-24T21:23:09.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Program.cs",
-              "RelativeDocumentMoniker": "SamuraiAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Program.cs",
-              "RelativeToolTip": "SamuraiAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T21:22:49.191Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{f2e84780-2af1-11d1-a7fa-00a0c9110051}"
@@ -227,7 +170,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "SamuraiContext.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\SamuraiContext.cs",
+              "RelativeDocumentMoniker": "SamuraiApp.Data\\SamuraiContext.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\SamuraiContext.cs",
+              "RelativeToolTip": "SamuraiApp.Data\\SamuraiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:26:13.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SamuraiAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Program.cs",
+              "RelativeToolTip": "SamuraiAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:18:35.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SamuraiAPI",
               "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\SamuraiAPI.csproj",
               "RelativeDocumentMoniker": "SamuraiAPI\\SamuraiAPI.csproj",
@@ -235,24 +204,103 @@
               "RelativeToolTip": "SamuraiAPI\\SamuraiAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-24T21:22:12.097Z",
+              "WhenOpened": "2024-10-01T21:17:23.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SamuraisController.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Controllers\\SamuraisController.cs",
+              "RelativeDocumentMoniker": "SamuraiAPI\\Controllers\\SamuraisController.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Controllers\\SamuraisController.cs",
+              "RelativeToolTip": "SamuraiAPI\\Controllers\\SamuraisController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwGcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:16:56.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SamuraiAPI.http",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\SamuraiAPI.http",
+              "RelativeDocumentMoniker": "SamuraiAPI\\SamuraiAPI.http",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\SamuraiAPI.http",
+              "RelativeToolTip": "SamuraiAPI\\SamuraiAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-01T21:09:54.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SamuraiAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\appsettings.json",
+              "RelativeToolTip": "SamuraiAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T21:09:49.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SamuraiAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SamuraiAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T21:09:32.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SamuraiAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SamuraiAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:07:29.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SamuraiAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "SamuraiAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:07:24.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20240924182057_BattleDates.cs",
               "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240924182057_BattleDates.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Data\\Migrations\\20240924182057_BattleDates.cs",
               "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240924182057_BattleDates.cs",
               "RelativeToolTip": "SamuraiApp.Data\\Migrations\\20240924182057_BattleDates.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:20:57.98Z"
+              "WhenOpened": "2024-09-24T18:20:57.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20240918165826_horseOne2One.cs",
               "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240918165826_horseOne2One.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Data\\Migrations\\20240918165826_horseOne2One.cs",
@@ -264,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "20240918163226_m2mPayload.cs",
               "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240918163226_m2mPayload.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Data\\Migrations\\20240918163226_m2mPayload.cs",
@@ -276,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Horse.cs",
               "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Horse.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Domain\\Horse.cs",
@@ -288,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "BattleSamurai.cs",
               "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\BattleSamurai.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Domain\\BattleSamurai.cs",
@@ -300,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Samurai.cs",
               "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Samurai.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Domain\\Samurai.cs",
@@ -312,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "20240911175019_init.cs",
               "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240911175019_init.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Data\\Migrations\\20240911175019_init.cs",
@@ -324,20 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SamuraiContext.cs",
-              "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\SamuraiContext.cs",
-              "RelativeDocumentMoniker": "SamuraiApp.Data\\SamuraiContext.cs",
-              "ToolTip": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\SamuraiContext.cs",
-              "RelativeToolTip": "SamuraiApp.Data\\SamuraiContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T17:43:55.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Battle.cs",
               "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Battle.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Domain\\Battle.cs",
@@ -349,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "20240916201358_manyToManySimple.cs",
               "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Data\\Migrations\\20240916201358_manyToManySimple.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Data\\Migrations\\20240916201358_manyToManySimple.cs",
@@ -361,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Quote.cs",
               "DocumentMoniker": "C:\\Users\\njenc\\Web3-AssignExerc\\SamuraiApp.Domain\\SamuraiApp.Domain\\Quote.cs",
               "RelativeDocumentMoniker": "SamuraiApp.Domain\\Quote.cs",
